@@ -12,6 +12,7 @@ Use the delegate callbacks to receive information about the bubble that the user
 
 ```objc
 - (void)didSelectBubbleView:(WCSBubble *)bubble;
+```
 
 @WrightsCS
 ------------
