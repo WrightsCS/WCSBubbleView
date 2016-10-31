@@ -17,6 +17,5 @@ Use the delegate callbacks to receive information about the bubble that the user
 @WrightsCS
 ------------
 
-I am not open-sourcing this project at this time, but may in the future.
 Twitter: @WrightsCS
 http://www.wrightscsapps.com 
