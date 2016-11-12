@@ -19,3 +19,9 @@ Use the delegate callbacks to receive information about the bubble that the user
 
 Twitter: @WrightsCS
 http://www.wrightscsapps.com 
+
+
+Apps using WCSBubbleView
+------------
+
+If you are using this in your app, please let me know and I will add your app here!
