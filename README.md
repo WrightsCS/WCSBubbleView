@@ -3,7 +3,7 @@ WCSBubbleView
 
 3-tier Bubble view with title, detail, value and some options.
 
-![enter image description here](https://raw.githubusercontent.com/WrightsCS/WCSBubbleView/master/screens/screen-1.png)
+<img src="/screens/screen-1.png" width="50%" />
 
 Delegate
 ------------
